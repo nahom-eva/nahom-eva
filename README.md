@@ -26,12 +26,6 @@ I love nothing more than a good conversation about tech, entrepreneurship, or li
 
 ---
 
-## 🎉 Fun Fact
-
-I enjoy connecting with people over discussions about tech journeys, entrepreneurship, and innovative perspectives on life.
-
----
-
 ## 🌐 Find Me On
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/nahom-tadesse-672292323/))  
