@@ -9,7 +9,7 @@ I love nothing more than a good conversation about tech, entrepreneurship, or li
 
 ## 👨‍🎓 About Me
 
-🎓 Currently studying **I'm an Intenr at Evangadi-Dvshop**  
+🎓 Currently **I'm an Intenr at Evangadi-Dvshop**  
 ☁️ Just completed **AWS Cloud Services** and working on side projects  
 🛠️ Gaining hands-on experience with **personal projects**  
 📚 Deep-diving into **Data Structures and Algorithms**  
