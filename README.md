@@ -9,7 +9,7 @@ I love nothing more than a good conversation about tech, entrepreneurship, or li
 
 ## 👨‍🎓 About Me
 
-🎓 Currently **I'm an Intern at Evangadi-Devhop**  
+🎓 Currently **I'm an Intern at Evangadi-Devshop**  
 🛠️ Gaining hands-on experience with **personal projects**  
 ☁️ Just completed **AWS Cloud Services** and working on side projects  
 📚 Deep-diving into **Data Structures and Algorithms**  
