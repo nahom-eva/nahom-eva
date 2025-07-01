@@ -66,8 +66,6 @@ I love nothing more than a good conversation about tech, entrepreneurship, or li
 
 ## 📊 GitHub Stats
 
-![Nahom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahom-eva&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nahom-eva&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-eva&layout=compact&theme=tokyonight)
