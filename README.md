@@ -1,19 +1,6 @@
 # Hey there! 👋 I'm Nahom Tadesse!
 
-Welcome to my corner of GitHub!  
-I’m a **Web Developer** diving into modern frameworks, building meaningful projects, and constantly learning new ways to understand and improve the world through code.
-
-I love nothing more than a good conversation about tech, entrepreneurship, or life’s big (and small) questions.
-
----
-
-## 👨‍🎓 About Me
-
 🎓 Currently **an Intern at Evangadi-Devshop**  
-🛠️ Gaining hands-on experience with **personal projects**  
-☁️ Just completed **AWS Cloud Services** and working on side projects  
-📚 Deep-diving into **Data Structures and Algorithms (DSA)**  
-🤝 Passionate about **community growth** and **tech leadership**
 
 ---
 
@@ -39,22 +26,16 @@ I love nothing more than a good conversation about tech, entrepreneurship, or li
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-### 🧩 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui)
-
-### ⚙️ Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon)
-
-### ☁️ Cloud & Productivity
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
