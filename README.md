@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Nahom Tadesse!
 
-🎓 Currently **an Intern at Evangadi-Devshop**  
+🎓 Currently **an Intern at Evangadi-Devshop**
 
 ---
 
@@ -16,6 +16,8 @@
 ## 🌐 Find Me On
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahom-tadesse-672292323/)
+
+---
 
 ## 🧰 Tech Stack I Use
 
@@ -57,3 +59,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahom-eva&show_icons=true&theme=tokyonight" alt="Nahom's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=nahom-eva&theme=tokyonight" alt="Nahom's GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-eva&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
