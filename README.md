@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 - Master modern web frameworks and tools  
 - Build scalable, production-ready web applications  
@@ -13,13 +13,13 @@
 
 ---
 
-## 🌐 Find Me On
+##  Find Me On
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahom-tadesse-672292323/)
 
 ---
 
-## 🧰 Tech Stack I Use
+##  Tech Stack I Use
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=nahom-eva&theme=tokyonight" alt="Nahom's GitHub Streak" />
