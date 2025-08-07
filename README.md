@@ -1,8 +1,4 @@
-# Hey there! 👋 I'm Nahom Tadesse!
-
-🎓 Currently **an Intern at Evangadi-Devshop**
-
----
+# Hey there! 👋 I'm Abenezer Abera!
 
 ##  Learning Goals
 
@@ -10,14 +6,6 @@
 - Build scalable, production-ready web applications  
 - Strengthen my understanding of **DSA (Data Structures & Algorithms)**  
 - Grow as a problem-solver and team collaborator
-
----
-
-##  Find Me On
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahom-tadesse-672292323/)
-
----
 
 ##  GitHub Stats
 
