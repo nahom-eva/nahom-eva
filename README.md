@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abenezer Abera!
+# Hey there! 👋
 
 ##  Learning Goals
 
